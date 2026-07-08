@@ -1,5 +1,12 @@
 # @ai-sdk/gateway
 
+## 2.0.110
+
+### Patch Changes
+
+- 6a823a6: feat(gateway): expose ruleId on GatewayForbiddenError so callers can identify which routing rule denied a request
+- 3c89617: feat (provider/xai): add grok-4.5 model id
+
 ## 2.0.109
 
 ### Patch Changes
