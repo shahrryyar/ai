@@ -1,5 +1,14 @@
 # @ai-sdk/gateway
 
+## 4.0.15
+
+### Patch Changes
+
+- 5d894a7: feat(gateway): expose ruleId on GatewayForbiddenError so callers can identify which routing rule denied a request
+- Updated dependencies [0f93c57]
+  - @ai-sdk/provider@4.0.3
+  - @ai-sdk/provider-utils@5.0.7
+
 ## 4.0.14
 
 ### Patch Changes

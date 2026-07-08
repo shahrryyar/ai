@@ -1,5 +1,16 @@
 # @ai-sdk/amazon-bedrock
 
+## 5.0.15
+
+### Patch Changes
+
+- 5cd0e38: feat(amazon-bedrock): add `providerOptions` schema and type for Bedrock image model requests
+- Updated dependencies [0f93c57]
+  - @ai-sdk/provider@4.0.3
+  - @ai-sdk/anthropic@4.0.11
+  - @ai-sdk/openai@4.0.10
+  - @ai-sdk/provider-utils@5.0.7
+
 ## 5.0.14
 
 ### Patch Changes

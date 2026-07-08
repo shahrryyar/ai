@@ -1,5 +1,16 @@
 # ai
 
+## 7.0.19
+
+### Patch Changes
+
+- 0f93c57: feat (video): support video (not just image) reference inputs in `inputReferences` for reference-to-video generation
+- Updated dependencies [5d894a7]
+- Updated dependencies [0f93c57]
+  - @ai-sdk/gateway@4.0.15
+  - @ai-sdk/provider@4.0.3
+  - @ai-sdk/provider-utils@5.0.7
+
 ## 7.0.18
 
 ### Patch Changes
